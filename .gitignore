@@ -2,3 +2,4 @@ tmp/.html
 tmp/*.txt
 *.o
 *.a
+*.dll
